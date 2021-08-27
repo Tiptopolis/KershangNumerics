@@ -1,7 +1,9 @@
 # KershangNumerics
- Backup of my enhanced rip-off of GDX's vectors & matrices used in Core5, just in case I fuck it up beyond my capacity to fix.
+ Backup of my enhanced rip-off of GDX's vectors & matrices used in Core5, just in case I fuck it up beyond my capacity to fix. You can collapse the abstract Number extensions if you don't want the insane mess underneath
 
-Mostly convenience methods for handling n-dimensional vectors & matrices, based on how GDX handles theirs. I havn't passed a math class since precal, so its taking a minute to decipher the rules, but it will be done to my liking by years end.
+Mostly convenience methods for handling and manipulating n-dimensional vectors & matrices, based on how GDX handles theirs. Theres also a partial ECS in there from a previous test-phase.
+
+I havn't passed a math class since precal, so its taking a minute to decipher the rules, but it will be done to my liking by years end.
 
 Sample of the log in the process of calculating the inverse of a the below M4;
 
